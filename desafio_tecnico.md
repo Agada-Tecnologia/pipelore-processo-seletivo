@@ -44,8 +44,6 @@ Procure seguir as boas práticas de desenvolvimento e arquitetura do Next.js e d
 
 ### Frontend - Interface
 
-Crie uma página em `/app/(pages)/repair-orders/page.tsx` com:
-
 **Listagem:**
 - Tabela/cards com todas as ordens de serviço
 - Filtros por status
@@ -58,9 +56,9 @@ Crie uma página em `/app/(pages)/repair-orders/page.tsx` com:
 - Editar ordem
 - Deletar ordem (com confirmação)
 
-### Backend - API REST (usada para simular uma integração com um sistema externo)
+### Backend - API REST
 
-Implemente o seguinte endpoint:
+Implemente o seguinte endpoint, usada para simular uma integração com um sistema externo:
 
 #### GET `/api/repair-orders/late`
 - Listar todas as ordens de serviço com data prevista para conclusão já passada, ou seja, ordens de serviço atrasadas
