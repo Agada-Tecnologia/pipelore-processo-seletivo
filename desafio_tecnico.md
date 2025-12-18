@@ -36,9 +36,7 @@ Não se preocupe em implementar uma conexão com o banco de dados, você pode us
 
 ### Arquitetura
 
-Sinta-se à vontade para implementar a arquitetura que desejar.
-
-Procure seguir as boas práticas de desenvolvimento e arquitetura do Next.js e do React.
+Sinta-se à vontade para implementar a arquitetura que desejar, mas recomendamos seguir as [boas práticas de desenvolvimento e arquitetura do Next.js](https://nextjs.org/docs/app/getting-started/project-structure) e do React.
 
 ## 📝 Requisitos Funcionais
 
